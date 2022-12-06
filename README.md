@@ -1,2 +1,3 @@
-# Denemeler
-Patika.dev uzerinde aldigim egitimin calismalari.
+# **HTML Denemeleri**
+
+> HTML yapisina dair denediklerim.
